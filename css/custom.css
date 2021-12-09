@@ -41,3 +41,8 @@
 .about__card-image{
   width: 80px;
 }
+
+/* Features styles */
+.features__container{
+  background-color: #F0F5F9;
+}
