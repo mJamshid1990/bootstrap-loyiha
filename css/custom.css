@@ -51,3 +51,9 @@
 .results__card-image{
   width: 80px;
 }
+
+/* Reviews styles */
+.reviews__container{
+  padding: 100px 50px;
+  background-color: #F0F5F9;
+}
