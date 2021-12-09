@@ -57,3 +57,8 @@
   padding: 100px 50px;
   background-color: #F0F5F9;
 }
+
+/* Pricing styles */
+.pricing__card{
+  background-color: #f0f5f9;
+}
