@@ -46,3 +46,8 @@
 .features__container{
   background-color: #F0F5F9;
 }
+
+/* Results styles */
+.results__card-image{
+  width: 80px;
+}
